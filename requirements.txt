@@ -1,0 +1,7 @@
+numpy>=1.9.2
+matplotlib>=1.4.3
+pandas>=0.19
+covid>=2.3.0 
+dataclasses>=0.7 
+pydantic>=1.6.1
+streamlit
