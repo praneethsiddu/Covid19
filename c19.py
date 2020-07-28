@@ -4,7 +4,6 @@ Created on Tue Jul 28 21:16:01 2020
 
 @author: praneeth
 """
-"""covid-2.3.0 dataclasses-0.7 pydantic-1.6.1"""
 from covid import Covid
 import matplotlib.image as mpimg 
 import streamlit as sl
