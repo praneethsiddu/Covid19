@@ -4,6 +4,9 @@ Created on Tue Jul 28 21:16:01 2020
 
 @author: praneeth
 """
+"""
+created by:Praneeth Partapu
+"""
 from covid import Covid
 import matplotlib.image as mpimg 
 import streamlit as sl
